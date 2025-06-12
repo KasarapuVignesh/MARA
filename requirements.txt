@@ -7,3 +7,4 @@ python-dotenv
 PyMuPDF
 faiss-cpu
 APScheduler
+langchain-community
