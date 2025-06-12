@@ -1,4 +1,4 @@
-# 🧠 AI Paper Summarizer
+# 🧠 MULTI AGENT RESEARCH SUMMARIZER(AI Paper Summarizer)
 
 An automated pipeline to fetch, summarize, and explore the latest Artificial Intelligence research papers from **arXiv.org**, powered by **LangChain**, **FAISS**, and **Google Gemini embeddings**. Designed with a daily scheduler that updates the system at **11:50 PM IST**.
 
