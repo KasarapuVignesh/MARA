@@ -8,3 +8,4 @@ PyMuPDF
 faiss-cpu
 APScheduler
 langchain-community
+langchain-google-genai
