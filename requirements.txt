@@ -1,0 +1,9 @@
+langgraph
+langchain
+streamlit
+google-generativeai
+arxiv
+python-dotenv
+PyMuPDF
+faiss-cpu
+APScheduler
