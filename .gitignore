@@ -21,3 +21,25 @@ faiss_index/
 
 # API keys and environment files
 .env
+# Bytecode & Cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+env/
+.venv/
+venv/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Data
+data/papers/*.pdf
+faiss_index/
+
+# API Keys
+.env
+
+# System
+.DS_Store
