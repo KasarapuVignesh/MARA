@@ -39,7 +39,7 @@ from langchain_google_genai import GoogleGenerativeAIEmbeddings
 import os
 
 # Set your Google API key (ideally use dotenv in production)
-os.environ["GOOGLE_API_KEY"] = secrets("GEMINI-API-KEY")
+os.environ["GOOGLE_API_KEY"] = os.getenv("GEMINI-API-KEY")
 
 # Initialize the embedding model
 embedding = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
